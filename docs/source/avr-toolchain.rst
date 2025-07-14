@@ -113,7 +113,7 @@ The autocomplete should work properly. PORT variables should come up in the auto
 No ``invalid preprocesor directive`` error should come up.
 
 Building the code and flashing it to the UNO R3
---------------------------------------------
+------------------------------------------------
 Open PowerShell/CMD in the project directory again.
 Run
 
