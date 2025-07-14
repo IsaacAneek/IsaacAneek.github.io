@@ -4,7 +4,7 @@ Backstory
 ---------
 A couple of days ago I was trying to program my Arduino UNO R3 board using my good ol' laptop with only 4Gigs of RAM and Dual Core Processor.
 Previously I had tried VS Code and Arduino IDE but it definitely wasn't the smoothest experience. They are built on the Electron framwork so they
-aren't supposed to run smooth on low-end devices either. I was searching for a lightweight code editor and yea that's when found about Lite XL text editor.
+aren't supposed to run smooth on low-end devices either. I was searching for a lightweight code editor and yes that's when found about Lite XL text editor.
 
 The bundle size is small (around 5MB) and yea it runs crispy smooth on my good ol' laptop. It's also extensible with plugins. Now let's get started.
 
